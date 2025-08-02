@@ -4,3 +4,4 @@
 
 - Para ejecutar el sistema requieres introducir el siguiente comando:
 - npm install react
+--new update 2
